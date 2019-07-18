@@ -1,0 +1,15 @@
+/* En ortaya getirme ayarı (log-in)*/
+.ortala{
+    position: absolute;
+    top: 50%;
+    left:50%;
+    transform: translate(-50%,-50%); 
+}
+/*Kenar yuvarlatma ayarı (log-in)*/
+.yuvarla{
+    border-radius: 15px;
+}
+/*Gölge yapma ayarı*/
+.golge{
+    box-shadow: 4px 4px 4px 4px rgba(4, 71, 2, 0.336);
+}
